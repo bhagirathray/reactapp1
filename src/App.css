@@ -1,3 +1,78 @@
+.hdiv{
+  margin-top: 0px;
+  height: 100px;
+  width: 100%;
+  background-color:pink;
+}
+
+ul {
+  text-align: center;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+li {
+  text-align: center;
+display:block; 
+  padding: 20px;
+  float: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .ul1{
+  text-decoration: none;
+  float: left;
+
+}
+
+.text1 {
+
+  
+  background-color: blue;
+}
+.header{
+
+  margin-top: 0px;
+  height: 100px;
+  widows: 100%;
+}
 .App {
   text-align: center;
 }
@@ -9,7 +84,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color:red;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -30,4 +105,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */

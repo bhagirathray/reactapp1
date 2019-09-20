@@ -1,0 +1,30 @@
+
+body {
+ 
+    text-align: center;
+}
+form {
+    display: inline-block;
+}
+
+
+.fbd{
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+    height: 100px;
+    background-color: blueviolet;
+}
+
+
+ul {
+    list-style-type: none;
+  }
+
+  ul li {
+      display:inline;
+      margin-left: 20px;
+      margin-right: 20px;
+  }
+
+
