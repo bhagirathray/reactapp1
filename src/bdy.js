@@ -5,7 +5,7 @@ function Bdy() {
       <div className="fbd">
     
        {
-          <form>
+          <form className="formmargin"> 
                     <label>
                         First Name:<input type="text"></input>
                     </label><br/><br/><br/>
